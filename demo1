@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>Xpath</title>
+
+	</head>
+	<body>
+		<input type="text" value="A">
+		<input type="text" value="B">
+		<input type="button" value="A">
+	</body>
+</html>
